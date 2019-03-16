@@ -1,0 +1,9 @@
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\bin\Debug\CapsLock.exe.config
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\bin\Debug\CapsLock.exe
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\bin\Debug\CapsLock.pdb
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.csprojResolveAssemblyReference.cache
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.Form1.resources
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.Properties.Resources.resources
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.csproj.GenerateResource.Cache
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.exe
+C:\Users\Link\Desktop\3H Prog\CapsLock\CapsLock\obj\Debug\CapsLock.pdb
